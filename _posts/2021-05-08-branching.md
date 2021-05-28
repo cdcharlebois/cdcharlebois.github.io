@@ -13,7 +13,7 @@ When it comes to branching in SVN, less is more. Because of the way that SVN tre
 
 If you're looking for the pattern that the most customers have used to drive successful projects, this is it. One ongoing development line that all developers work on, plus necessary branches for hot fixes, plus the trunk.
 
-![image-20210528165933127](2021-05-08-branching.assets/image-20210528165933127.png)
+![image-20210528165933127](/assets/image-20210528165933127.png)
 
 I've seen customers try other patterns, but none have ever been as successful as this tried-and-true method. Let's explain:
 
